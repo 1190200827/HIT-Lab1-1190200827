@@ -1,0 +1,29 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="untitled6:jar">
+    <output-path>$PROJECT_DIR$/../../../../face</output-path>
+    <root id="archive" name="untitled6.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../../../../META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="School" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/primefaces-6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/javax.faces-2.4.0.jar" path-in-jar="/" />
+      <element id="library" level="module" name="mysql-connector-java-5.1.49-bin.jar" module-name="untitled6" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/sac.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jcommon.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jfreechart.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/lib/cssparser-0.9.4-license.txt" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/cssparser.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/openfaces.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/lib/jdom-1.0-license.txt" />
+      <element id="dir-copy" path="$PROJECT_DIR$/lib/commons-codec-1.3-license.txt" />
+      <element id="dir-copy" path="$PROJECT_DIR$/lib/redistribution.txt" />
+      <element id="dir-copy" path="$PROJECT_DIR$/lib/dojo-license.txt" />
+      <element id="dir-copy" path="$PROJECT_DIR$/lib/openfaces-license.txt" />
+      <element id="dir-copy" path="$PROJECT_DIR$/lib/myfaces-license.txt" />
+      <element id="dir-copy" path="$PROJECT_DIR$/lib/jfreechart-license.txt" />
+      <element id="dir-copy" path="$PROJECT_DIR$/lib/json-license.txt" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-collections.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
